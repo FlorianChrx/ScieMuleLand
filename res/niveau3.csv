@@ -1,0 +1,15 @@
+Vous venez de créer votre start-up à Lille. Une petite équipe de 5 personnes qui développe des applications pour d’autres entreprises.plignePour la première fois, une très grosse entreprise de jeu vidéo vous a contacté pour travailler avec elle.pligneCette offre est très importante pour votre start-up et vous ne pouvez pas la refuser sans quoi, vous fairez faillite.pligneAinsi en tant que chef d’entreprise, vous devez gérer votre équipe et votre matériel, la satisfaction du client, le temps et le budget alloué.pligneSi vous n’arrivez pas à gérer ces quatre paramètres, vous n’arriverez pas à arriver au bout du projet, le client ne vous paiera pas et votre entreprise fermera.plignepligne
+Vos employés demandent à manger un kebab ?; 0:-9:8:0: Je les nourris; 0:0:-9:0: Je les ignore; 0:-5:3:0: Je les invite à prendre un verre d'eau
+Vous recevez une demande pour un nouveau projet.; -15:7:-9:-13: J'accepte; -8:4:-7:-9: Je divise mon équipe; 0:0:4:8: Je refuse
+Une nouvelle gamme d’ordinateur pro vient de sortir.; 7:-14:5:7: Je les achète pour tous les employés; -7:0:-7:0: Je ne les achète pas; 0:-8:0:0: J’en achète que pour moi
+Vos employés veulent se reposer.; -12:0:-13:-15: Je leur alloue une pause d’une heure; 0:0:-9:-8: Ils ne méritent pas de pause et travaillent jusque 19h; 0:0:5:0: Je vais leur chercher un café
+Tu as une nouvelle idée de fonctionnalité qui améliorera grandement le projet.; -8:-7:-6:-6: Je l’applique au jeu; 0:0:0:0: Je ne fais rien; 0:0:0:7: J’en parle d’abord au client
+Je suis en retard sur le projet.; 0:-12:9:0: Je recrute d’urgence ; -11:0:4:0: Je répartie les tâches; -14:0:0:-8: Je ne fais rien  
+Il manque de l’argent pour finir le projet; 0:8:0:-8: J'en demande au client; -10:12:0:0: Je fais une levée de fond; 0:0:0:-10: Je finis le travail au plus vite
+Les salariés sont de moins en moins productif.; 0:-15:8:5: Je leur promets une bonne prime à la fin du projet; -12:0:4:0: Je leur laisse plus de pause; 0:0:-8:-5: Je ne fais rien
+Un RansomWare a infecté votre société.; 0:-14:0:0: Je paye; -15:0:-6:0: Je porte-plainte; -22:-12:-12:-12: J'attends
+Vous avez un léger retard sur le projet.; 0:-12:4:3: Je fais faire des heures supp'; -5:0:-6:0: On continue comme d'habitude; 11:0:0:-12: Je demande un délai supplémentaire
+Une entreprise vous propose une fonctionnalité que vous devrait développez si vous ne l'achetez pas.; 7:-12:5:3: Je l'achète; -9:0:0:0: Je ne l'achète pas; -10:-9:0:0: je tente de le cracker
+Vous avez un enterrement prévu demain.; 0:0:6:8: J'ouvre le bureau et je fais confiance en mes devs; -12:0:-8:0: Une journée de repos pour tout le monde; 0:-10:-11:0: Je paye les devs pour qu'ils travaillent depuis chez eux
+Vous devez réaliser une réunion et envoyer le compte-rendu au client.; 4:0:6:-11: Je ne la fais pas et je code à la place; -6:0:0:11: Je la fais sérieusement; -8:0:-9:-15: Je rentre chez moi
+Vos employés font grève et réclament un plus gros salaire.; 0:-12:0:0: Je cède à leur demande; 0:0:-15:0: Qu'ils continuent, je ne les paye pas pendant leur grève..; 0:0:-8:-10: Je les menace de licenciement
